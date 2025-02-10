@@ -1,0 +1,5 @@
+screener_parser_per="False"
+fmp_parser_per="False"
+yahoo_parser_per="True"
+ms_parser_per="False"
+zacks_parser_per="False"
